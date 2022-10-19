@@ -5,7 +5,7 @@
 to handle and retrieve data, designing databases, creating services based on
 requirements,etc. 
 
-Also I have little notions on front end developer, writting HTML and css is not
+Also I have little notions on front end development, writting HTML and css is not
 so difficult to me, but in front end I wish to be upgrading my skills to become
 fullstash at certain point of my career.
 
@@ -16,6 +16,7 @@ fullstash at certain point of my career.
   it comes to cleaning data)
 - CI/CD
 - UX/UI
+- SVG design
 
 No matter how long it takes, I like to be digging into everything.
 
