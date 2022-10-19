@@ -26,7 +26,7 @@ you can catch me by sending me a message to:
 - My <a href="https://www.linkedin.com/in/mois%C3%A9s-nain-soto-guzm%C3%A1n-61455b239/">Linkedin</a> account 
 - Email: codiciaaa@protonmail.com
 
-# One important thing about me... the minions are the best programmers 
+# One important thing about me... I love minions so much
 
 <img src="minion_dancing1.gif" style="width:50px; height:50px;">
 
