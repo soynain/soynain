@@ -2,7 +2,7 @@
 👋 Hi, my name is Moisés Nain, some friends call me Moi, others Nain, as you please.
 
 👀 I’m interested in backend programming topics, design patterns and technologies, I like
-to handle and retrieve data, designing databases, creating services based on
+to handle and retrieve data, design databases, create services based on
 requirements,etc. 
 
 Also I have little notions on front end development, writting HTML and css is not
