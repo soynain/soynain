@@ -1,3 +1,4 @@
+# HII
 👋 Hi, my name is Moisés Nain, some friends call me Moi, others Nain, as you please.
 👀 I’m interested in backend programming topics, design patterns and technologies, I like
 to handle and retrieve data, designing databases, creating services based on
@@ -23,6 +24,13 @@ you can catch me by sending me a message to:
 - My <a href="https://www.linkedin.com/in/mois%C3%A9s-nain-soto-guzm%C3%A1n-61455b239/">Linkedin</a> account 
 - Email: codiciaaa@protonmail.com
 
+# One important thing about me... the minions are the best programmers 
+
+<img src="minion_dancing1.gif" style="width:50px; height:50px;">
+
+# Just look how cute this mfs are
+
+<img src="minion_dancing2.gif" style="width:50px; height:50px;">
 
 
 <!---
