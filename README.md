@@ -30,7 +30,7 @@ you can catch me by sending me a message to:
 
 <img src="minion_dancing1.gif" style="width:50px; height:50px;">
 
-# Just look how cute this mfs are
+# Just look how cute these mfs are
 
 <img src="minion_dancing2.gif" style="width:50px; height:50px;">
 
