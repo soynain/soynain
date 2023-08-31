@@ -26,16 +26,3 @@ you can catch me by sending me a message to:
 - My <a href="https://www.linkedin.com/in/mois%C3%A9s-nain-soto-guzm%C3%A1n-61455b239/">Linkedin</a> account 
 - Email: codiciaaa@protonmail.com
 
-# One important thing about me... I love minions so much
-
-<img src="minion_dancing1.gif" style="width:50px; height:50px;">
-
-# Just look how cute these mfs are
-
-<img src="minion_dancing2.gif" style="width:50px; height:50px;">
-
-
-<!---
-soynain/soynain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
