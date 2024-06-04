@@ -7,7 +7,7 @@ requirements,etc.
 
 Also I have little notions on front end development, writting HTML and css is not
 so difficult to me, but in front end I wish to be upgrading my skills to become
-fullstash at certain point of my career.
+fullstack at certain point of my career.
 
 🌱 I’m currently learning Java Spring Boot, MongoDB, rabbit MQ and redis. My next topics to learn are
 - Microservices
