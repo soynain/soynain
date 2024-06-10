@@ -1,22 +1,17 @@
 # HII
 👋 Hi, my name is Moisés Nain, some friends call me Moi, others Nain, as you please.
 
-👀 I’m interested in backend programming topics, design patterns and technologies, I like
-to handle and retrieve data, design databases, create services based on
-requirements,etc. 
+👀 I’m a fullstack developer updated with the last IT tendencies. I have knowledge of 
+orchestrated processes, microservices orchestration, API designs, database designs
+and some beginner notions of ETL data processing.
 
-Also I have little notions on front end development, writting HTML and css is not
-so difficult to me, but in front end I wish to be upgrading my skills to become
-fullstack at certain point of my career.
+🌱 I’m currently interested in sharpening my Java skills, I haven't touched that language
+in quite a time. Spring boot is in my interest.
 
-🌱 I’m currently learning Java Spring Boot, MongoDB, rabbit MQ and redis. My next topics to learn are
-- Microservices
-- Software arquitecture patterns and bases
+Next topics I want to learn are:
 - Machine learning, data science and AI field (cuz I'm kinda good into Mysql where
   it comes to cleaning data)
-- CI/CD
-- UX/UI
-- SVG design
+- CI/CD deployments.
 
 No matter how long it takes, I like to be digging into everything.
 
