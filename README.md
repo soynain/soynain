@@ -12,7 +12,7 @@ Next topics I want to learn are:
 - Machine learning, data science and AI field (cuz I'm kinda good into Mysql where
   it comes to cleaning data)
 - CI/CD deployments.
--Mobile development
+- Mobile development
 
 No matter how long it takes, I like to be digging into everything.
 
