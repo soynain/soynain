@@ -9,9 +9,7 @@ and some beginner notions of ETL data processing.
 in quite a time. Spring boot is in my interest.
 
 Next topics I want to learn are:
-- Machine learning, data science and AI field (cuz I'm kinda good into Mysql where
-  it comes to cleaning data)
-- CI/CD deployments.
+- CI/CD Deplyments
 - Mobile development
 - Currently practicing Java again (27/07/2024)
 
