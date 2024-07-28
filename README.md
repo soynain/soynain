@@ -13,6 +13,7 @@ Next topics I want to learn are:
   it comes to cleaning data)
 - CI/CD deployments.
 - Mobile development
+- Currently practicing Java again (27/07/2024)
 
 No matter how long it takes, I like to be digging into everything.
 
