@@ -11,7 +11,6 @@ in quite a time. Spring boot is in my interest.
 Next topics I want to learn are:
 - CI/CD Deplyments
 - Mobile development
-- Currently practicing Java again (27/07/2024)
 
 No matter how long it takes, I like to be digging into everything.
 
