@@ -9,8 +9,8 @@ and some beginner notions of ETL data processing.
 in quite a time. Spring boot is in my interest.
 
 Next topics I want to learn are:
-- CI/CD Deplyments
-- Mobile development
+- CI/CD Deplyments (currently learning with jenkins)
+- Mobile development (In a future)
 
 No matter how long it takes, I like to be digging into everything.
 
