@@ -1,16 +1,11 @@
 # HII
-👋 Hi, my name is Moisés Nain, some friends call me Moi, others Nain, as you please.
+👋 Hi, my name is Moisés Nain, but you can call me god
 
 👀 I’m a fullstack developer updated with the last IT tendencies. I have knowledge of 
 orchestrated processes, microservices orchestration, API designs, database designs
 and some beginner notions of ETL data processing.
 
-🌱 I’m currently interested in sharpening my Java skills, I haven't touched that language
-in quite a time. Spring boot is in my interest.
-
-Next topics I want to learn are:
-- CI/CD Deplyments (currently learning with jenkins)
-- Mobile development (In a future)
+Java is my favorite language, we could say in this point that I'm a god when it comes to that language.
 
 No matter how long it takes, I like to be digging into everything.
 
