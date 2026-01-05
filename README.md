@@ -1,7 +1,7 @@
 # HII
-👋 Hi, my name is Moisés Nain, but you can call me god
+👋 Hi, my name is Moisés Nain
 
-👀 I’m a Java tech lead with experience on big monolitic systems with
+👀 I’m a Java developer with experience on big monolitic systems with
 processes orchestrations and also microservices, from design to deployment.
 
 From a diversity of business logics, I consider myself to be adaptable to any kind of business
